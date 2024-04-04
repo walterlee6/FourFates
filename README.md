@@ -1,2 +1,3 @@
 # FourFates
-Games Development Competition
+Games Development Competition with shun, lucas, josh 
+
